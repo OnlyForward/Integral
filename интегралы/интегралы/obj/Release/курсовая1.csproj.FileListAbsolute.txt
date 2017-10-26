@@ -1,0 +1,11 @@
+C:\Users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\bin\Release\курсовая1.exe.config
+C:\Users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\bin\Release\курсовая1.exe
+C:\Users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\bin\Release\курсовая1.pdb
+C:\Users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\obj\Release\курсовая1.Form1.resources
+C:\Users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\obj\Release\курсовая1.Form2.resources
+C:\Users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\obj\Release\курсовая1.Properties.Resources.resources
+C:\Users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\obj\Release\курсовая1.для_вывода_графика.resources
+C:\Users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\obj\Release\курсовая1.сообщение_о_точности.resources
+C:\Users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\obj\Release\курсовая1.csproj.GenerateResource.Cache
+C:\Users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\obj\Release\курсовая1.exe
+C:\Users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\obj\Release\курсовая1.pdb

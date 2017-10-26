@@ -1,0 +1,13 @@
+c:\users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\bin\Debug\курсовая1.exe.config
+c:\users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\bin\Debug\курсовая1.exe
+c:\users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\bin\Debug\курсовая1.pdb
+c:\users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\obj\Debug\курсовая1.csprojResolveAssemblyReference.cache
+c:\users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\obj\Debug\курсовая1.Form1.resources
+c:\users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\obj\Debug\курсовая1.Form2.resources
+c:\users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\obj\Debug\курсовая1.Properties.Resources.resources
+c:\users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\obj\Debug\курсовая1.csproj.GenerateResource.Cache
+c:\users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\obj\Debug\курсовая1.exe
+c:\users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\obj\Debug\курсовая1.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\курсовая1\курсовая1\obj\Debug\курсовая1.для_вывода_графика.resources
+C:\Users\123\documents\visual studio 2015\Projects\курсовая1\курсовая1\obj\Debug\курсовая1.сообщение_о_точности.resources
+C:\Users\123\Documents\Visual Studio 2015\Projects\курсовая1\курсовая1\obj\Debug\курсовая1.csproj.CoreCompileInputs.cache
